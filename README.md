@@ -2,6 +2,8 @@
 
 http://blog.webkid.io/neural-networks-in-javascript/
 
+![](https://github.com/rockq-org/mnist-nnm/blob/master/assets/demo.gif)
+
 
 ```
 cd src
