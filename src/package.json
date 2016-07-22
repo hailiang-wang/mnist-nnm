@@ -1,0 +1,33 @@
+{
+    "name": "mnist-nnm",
+    "version": "1.0.0",
+    "description": "nodejs application for MNIST Dataset",
+    "main": "index.js",
+    "scripts": {
+        "test": "ava"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/rockq-org/mnist-nnm.git"
+    },
+    "keywords": [
+        "mnist",
+        "machinelearning",
+        "ai",
+        "deeplearning"
+    ],
+    "author": "Hai Liang Wang",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://git@github.com/rockq-org/mnist-nnm/issues"
+    },
+    "homepage": "https://github.com/rockq-org/mnist-nnm#readme",
+    "dependencies": {
+        "log4js": "^0.6.38",
+        "mnist": "^1.0.5",
+        "synaptic": "^1.0.7"
+    },
+    "devDependencies": {
+        "ava": "^0.15.2"
+    }
+}
